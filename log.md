@@ -29,9 +29,16 @@
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) <-->
 
- ### Day 1: December, 2023 
+ ### Day 1: December 8, 2023 
  **Today's Progress**: Completed the basic CSS tutroial at freecodecamp web.
 
  **Thoughts:** CSS bukannya susah, tapi ini pertama kali untukku berusaha konsisten, dengan awal yang lancar aku sangat semangat untuk perjalanan ini.
+
+ ### Day 2:  December 9, 2023
+ **Today's Progress**: I've joined CS50!
+
+ **Thoughts:** Well i didn't expect the REAL programming languange gonna be fun, last october i joined the CS50 but stopped because of work things, so i continued in Week 1, but i didn't do Problem Set 0 Scratch so today i have focusing completed that, just basic platformer game, but i'm happy with the result.
+
+ **Link To Work:** https://scratch.mit.edu/projects/937679455
  
 
