@@ -40,5 +40,10 @@
  **Thoughts:** Well i didn't expect the REAL programming languange gonna be fun, last october i joined the CS50 but stopped because of work things, so i continued in Week 1, but i didn't do Problem Set 0 Scratch so today i have focusing completed that, just basic platformer game, but i'm happy with the result.
 
  **Link To Work:** https://scratch.mit.edu/projects/937679455
+
+ ### Day 3: December 10, 2023
+ **Today's Progress**: Do the pset.
+
+ **Thoughts:** So, i was feel weird feeling today, write something and feel not sure how it's work. XD i feel tired just sitting look at my screens up to 6 hours and still how it's work.
  
 
