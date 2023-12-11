@@ -45,5 +45,10 @@
  **Today's Progress**: Do the pset.
 
  **Thoughts:** So, i was feel weird feeling today, write something and feel not sure how it's work. XD i feel tired just sitting look at my screens up to 6 hours and still how it's work.
+
+ ### Day 4: December 11,202
+ **Today's Progress**:Make a credit card detection
+
+ **Thoughts:** I'm has been completed half of my pset project from CS50, I'll continue it tommorrow before submit it
  
 
