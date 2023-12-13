@@ -46,9 +46,14 @@
 
  **Thoughts:** So, i was feel weird feeling today, write something and feel not sure how it's work. XD i feel tired just sitting look at my screens up to 6 hours and still how it's work.
 
- ### Day 4: December 11,202
+ ### Day 4: December 11,2023
  **Today's Progress**:Make a credit card detection
 
  **Thoughts:** I'm has been completed half of my pset project from CS50, I'll continue it tommorrow before submit it
+
+### Day 5: December 12,2023
+**Today's Progress**: Complete the Pset 1 CS50
+
+**Thoughts:** Now I know some basic function, kinda frustrating at beginning but always comes fun if anything expected happen :)
  
 
